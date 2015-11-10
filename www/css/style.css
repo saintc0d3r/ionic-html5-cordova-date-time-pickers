@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+input[type="time"], input[type="date"]{
+	color: #01a3e3;
+	-webkit-appearance:  textfield;
+	margin-top:-5px;
+}
+span {
+	color: #038fcb;
+}
+span:active, input[type="time"]:active, input[type="date"]:active {
+	color: red;
+}
